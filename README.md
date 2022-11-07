@@ -1,2 +1,2 @@
 # Intro
-This is my folder for JavaScript learning.
+This is my folder for JavaScript learning)
